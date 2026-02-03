@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://beb8qb7kudg1t"]
+
+[ext_resource type="Texture2D" uid="uid://bs5u0mlfvm2cu" path="res://assets/MainCharacters/hp_bar_inner.png" id="2_flgu2"]
+[ext_resource type="Texture2D" uid="uid://1ecy07lmbxne" path="res://assets/Others/red.jpg" id="3_csvh2"]
+[ext_resource type="Texture2D" uid="uid://c38amy2hppm24" path="res://assets/MainCharacters/hp_bar_outer.png" id="3_re8ke"]
+
+[node name="HealthBar" type="TextureProgressBar"]
+offset_left = -4.0
+offset_top = -2.0
+offset_right = 213.0
+offset_bottom = 40.0
+max_value = 3.0
+value = 3.0
+nine_patch_stretch = true
+texture_under = ExtResource("2_flgu2")
+texture_over = ExtResource("3_re8ke")
+texture_progress = ExtResource("3_csvh2")
+texture_progress_offset = Vector2(20, 0)
