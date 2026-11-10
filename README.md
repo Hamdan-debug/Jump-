@@ -1,5 +1,6 @@
 <img width="100" height="50" alt="TitleForGame" src="https://github.com/user-attachments/assets/b2c29f5b-dc16-4a98-b15b-58dffb406bc0" />
 
+<img width="536" height="326" alt="image" src="https://github.com/user-attachments/assets/66bc41d0-7467-4c98-9830-fc3384413560" />
 
 
 # Jump-
