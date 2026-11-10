@@ -11,12 +11,18 @@ This game was made in Godot engine.
 
 My Journey:
 In this project,I learned:
-How to make funstions and call them
+How to make functions and call them
+
 Change scenes
+
 Make a proper health system
+
 Make a proper enemy AI(basic)
+
 How to design a world in godot
+
 How to find errors in code
+
 How to export a game and put in itch
 
 Credits:
