@@ -1,4 +1,7 @@
 <img width="100" height="50" alt="TitleForGame" src="https://github.com/user-attachments/assets/b2c29f5b-dc16-4a98-b15b-58dffb406bc0" />
+
+
+
 # Jump-
 A cool nooby platformer game made completely by me!
 In ths game,you have to complete 3 levels to win!
@@ -29,3 +32,19 @@ WisconsiKnight(Helped me make my enemy AI.His Channel:[Click Here](https://www.y
 
 
 Make sure to subscribe to them since they are very cool!
+
+Prerequisites:
+Intel Core i3
+approx.1GB Ram
+Itch.io
+
+Download:
+Download the game on Itch.io to play
+
+Help:
+If any bug happens,pleae contact: bigkabob512@gmail.com
+If it's not running on itch,check requirements,your wifi connection
+It might bug at the portals a bit
+
+License:
+The project is licensed under Hamdan Hussain.Anyone may use amd gather inspiration from the code.
